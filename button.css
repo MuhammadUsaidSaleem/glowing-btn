@@ -19,3 +19,8 @@ button{
     text-transform: uppercase;
 
 }
+button:hover{
+   background-color: brown;
+   transition-duration: 3s;
+   cursor: pointer;
+}
